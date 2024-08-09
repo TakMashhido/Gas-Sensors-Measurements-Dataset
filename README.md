@@ -1,4 +1,4 @@
-# Gas Sensors Measurements Dataset
+# Gas Sensors Measurements Dataset [![DOI](https://zenodo.org/badge/765650399.svg)](https://zenodo.org/doi/10.5281/zenodo.13283719)
 This dataset contains measurements from gas sensors. The data includes readings from various gas sensors (MQ2, MQ3, MQ5, MQ6, MQ7, MQ8, MQ135) along with a serial number and the type of gas detected.
 
 ## Dataset Information
